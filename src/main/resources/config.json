@@ -1,0 +1,5 @@
+{
+  "username": "root",
+  "node": "control-plane",
+  "pods": "3"
+}
